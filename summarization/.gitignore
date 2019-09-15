@@ -1,0 +1,4 @@
+venv/
+.idea/
+chunked_data/
+../datasets/
